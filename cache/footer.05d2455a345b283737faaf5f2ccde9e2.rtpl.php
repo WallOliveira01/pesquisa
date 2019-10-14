@@ -1,0 +1,28 @@
+<?php if(!class_exists('Rain\Tpl')){exit;}?><footer id="footer">
+        <p class="copyright">Desenvolvido
+            por
+            <a target="_blank" title="Wallace Oliveira" href="https://www.instagram.com/wallace_photographer/">Wallace Oliveira</a> &copy;
+            <span id="currentYear"></span> Todos os direitos reservados.
+        </p>
+        <div class="social">
+            <a traget="_blank" href="https://facebook.com/orbitthemes" title="facebook">
+                <i class="fa fa-facebook"></i>
+            </a>
+            <a traget="_blank" href="https://facebook.com/orbitthemes" title="youtube">
+                <i class="fa fa-youtube"></i>
+            </a>
+            <a traget="_blank" href="https://facebook.com/orbitthemes" title="instagram">
+                <i class="fa fa-instagram"></i>
+            </a>
+        </div>
+    </footer>
+    <!-- jQuery first, then Bootstrap JS. -->
+    <script src="../res/site/dist/jquery/jquery.min.js"></script>
+    <script src="../res/site/dist/popper/popper.min.js" integrity=""></script>
+    <script src="../res/site/dist/bootstrap/js/bootstrap.min.js"></script>
+    <script src="../res/site/js/main.min.js"></script>
+    <script src="../res/site/js/script.js"></script>
+    <script src="../res/site/dist/jquery/jquery.mask.js"></script>
+</body>
+
+</html>
