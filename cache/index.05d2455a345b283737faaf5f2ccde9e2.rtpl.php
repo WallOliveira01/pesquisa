@@ -5,7 +5,7 @@
                         <ul class="list-group mb-3">
                             <li class="list-group-item d-flex justify-content-between lh-condensed">
                                 <span class="text-muted">
-                                    <img src="../res/site/img/logo-cidade-reporter.png" alt="cidade-reporter-logo" style="width: 110%;"><br><br>
+                                    <img src="../res/site/img/logo.png" alt="" style="width: 110%;"><br><br>
                                     <p class="lead">Este formulario é de carater obrigatório. O <strong>não preenchimento</strong> do mesmo acarretará no não recebimento das nossas notícias <strong>via lista de transmissão no WhatsApp.</strong></p>
                                 </span>
                             </li>

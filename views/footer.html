@@ -5,13 +5,13 @@
             <span id="currentYear"></span> Todos os direitos reservados.
         </p>
         <div class="social">
-            <a traget="_blank" href="https://facebook.com/orbitthemes" title="facebook">
+            <a traget="_blank" href="" title="facebook">
                 <i class="fa fa-facebook"></i>
             </a>
-            <a traget="_blank" href="https://facebook.com/orbitthemes" title="youtube">
+            <a traget="_blank" href="" title="youtube">
                 <i class="fa fa-youtube"></i>
             </a>
-            <a traget="_blank" href="https://facebook.com/orbitthemes" title="instagram">
+            <a traget="_blank" href="" title="instagram">
                 <i class="fa fa-instagram"></i>
             </a>
         </div>

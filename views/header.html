@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Cidade Repórter | Formulário</title>
+    <title>Pesquisa | Formulário</title>
     <!-- Required meta tags always come first -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -31,8 +31,8 @@
     <main id="main" role="main">
         <section id="checkout-banner">
             <div class="container py-5 text-center">
-                <img src="../res/site/img/logo-branco-cidade-reporter.png" alt="cidade-reporter-logo" style="width: 300px;">
-                <h2 class="my-3">Obrigado por estar no Cidade Repórter</h2>
+                <img src="../res/site/img/logo.png" alt="cidade-reporter-logo" style="width: 300px;">
+                <h2 class="my-3">Obrigado por estar na Minha Companhia</h2>
                 <p class="lead">Abaixo está o nosso formulário de cadastro para que você continue a receber nossas noticias.</p>
             </div>
         </section>
