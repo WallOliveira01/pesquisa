@@ -1,4 +1,4 @@
-CREATE DEFINER=`root`@`localhost` PROCEDURE `sp_users_save`(
+CREATE DEFINER=`root`@`localhost` PROCEDURE `sp_dataform_save`(
 pdesfirstname VARCHAR(64),
 pdeslastname VARCHAR(64),
 pdessex VARCHAR(32),
